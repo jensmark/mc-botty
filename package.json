@@ -1,0 +1,29 @@
+{
+  "name": "mc-botty",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jkrmc12/mc-botty.git"
+  },
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/jkrmc12/mc-botty/issues"
+  },
+  "homepage": "https://github.com/jkrmc12/mc-botty#readme",
+  "dependencies": {
+    "body-parser": "^1.17.2",
+    "co": "^4.6.0",
+    "co-prompt": "^1.0.0",
+    "connect": "^3.6.3",
+    "mineflayer": "jkrmc12/mineflayer#master",
+    "npmlog": "^4.1.2",
+    "yggdrasil": "^1.1.1"
+  }
+}
